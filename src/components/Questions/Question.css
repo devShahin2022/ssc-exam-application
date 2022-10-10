@@ -1,0 +1,17 @@
+
+/* exam paper container */
+.exam-paper-container{
+    padding: 5% 1%;
+    background:linear-gradient(rgb(211, 202, 202),rgb(184, 184, 184));
+    margin-top: 5%;
+}
+.option-wrap{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2rem;
+    flex-wrap: wrap;
+}
+.option-wrap p{
+    width: 50%;
+    line-height: 2rem;
+}

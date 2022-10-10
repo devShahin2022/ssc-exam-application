@@ -1,0 +1,28 @@
+/* Hello learner section */
+.hello-leaner-sec{
+    padding: 7% 1%;
+    background-color: rgb(216, 70, 70);
+}
+.hello-leaner-sec h1{
+    font-size: 2.2rem;
+    color:#fff;
+    font-weight: bold;
+    padding: 2% 0;
+}
+.hello-leaner-sec p{
+    color:rgb(235, 235, 235);
+}
+.hello-leaner-sec .learner-actions{
+    display: flex;
+    justify-content:space-between;
+    margin-top: 2rem;
+    align-items: center;
+}
+.hello-leaner-sec .learner-actions button{
+    padding: 1rem 2rem;
+    border:1px solid rgba(145, 37, 37, 0.349);
+    background-color: rgba(134, 38, 38, 0.521);
+    color:#fff;
+    border-radius: .4rem;
+    font-weight: bold;
+}

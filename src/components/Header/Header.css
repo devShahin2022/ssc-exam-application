@@ -1,0 +1,62 @@
+h2{
+    font-size: 1.2rem;
+}
+h3{
+    font-size: 1rem;
+}
+.header-section{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0rem;
+    background-color: #ff0000;
+    padding: 2% 1%;
+    align-items: center;
+}
+.header-section h2{
+    font-weight: bold;
+    color: #fff;
+}
+.header-section a{
+    text-decoration: none;
+    padding: .8rem;
+    display: block;
+    background-color: #fff;
+    color: red;
+    font-weight: bold;
+    border-radius: .2rem;
+    cursor: pointer;
+}
+
+/* find previous exam */
+.find-prev-xm{
+    margin-top:2%;
+    padding: 3% 1%;
+    background-color: rgb(247, 247, 247);
+    border-radius: .8rem;
+    
+}
+.find-prev-xm h2{
+    margin-top: 6%;
+}
+.find-question{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 5%;
+}
+.find-question select{
+    padding: .6rem;
+    background-color: rgb(241, 241, 241);
+    border: 1px solid rgb(226, 215, 215);
+
+}
+.find-question button{
+    padding: .5rem 1rem;
+    background-color: red;
+    border-radius: .5rem;
+    color:#fff;
+    font-weight: bold;
+    border:1px solid red;
+}
+
+

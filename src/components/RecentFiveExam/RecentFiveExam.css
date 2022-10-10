@@ -1,0 +1,39 @@
+/* last five question */
+.last-five-ques{
+    background-color: rgb(233, 233, 233);
+    padding: 2% 1%;
+    margin-top:4%;
+}
+.last-five-ques h3{
+    margin-top: 3%;
+}
+.last-five-ques button{
+    padding: 2rem 2.2rem;
+    background-color: rgb(255, 255, 255);
+}
+.last-questions{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 1rem;
+    margin-top: 1rem;
+    padding: 3% 1%;
+}
+.last-questions button{
+    border: 1px solid #fff5f5;
+    border-radius: .5rem;
+}
+.last-questions .last-xm-box1{
+    background-color: rgb(255, 231, 231);
+}
+.last-questions .last-xm-box2{
+    background-color: rgb(235, 255, 240);
+}
+.last-questions .last-xm-box3{
+    background-color: rgb(238, 250, 255);
+}
+.last-questions .last-xm-box4{
+    background-color: rgb(228, 223, 243);
+}
+.last-questions .last-xm-box5{
+    background-color: rgb(255, 224, 238);
+}

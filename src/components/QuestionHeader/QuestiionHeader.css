@@ -1,0 +1,26 @@
+.exam-header-sec{
+    padding: 4% 1%;
+    background-color: #ffebeb;
+}
+.xm-1st-row{
+    display: flex;
+    justify-content: space-between;
+}
+.left-bx p{
+    line-height: 2rem;
+    color: rgb(53, 53, 53);
+}
+.right-bx{
+    padding: 1%;
+    border-radius: .4rem;
+    background-color: rgb(214, 214, 214);
+    width: 50%;
+}
+.right-bx h4{
+    text-align: center;
+    padding: 2% 1%;
+}
+.right-bx p{
+    line-height: 2rem;
+    color: rgb(53, 53, 53);
+}
